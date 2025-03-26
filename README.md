@@ -87,9 +87,9 @@ Java,Springboot,mybatis,mysql,jquery,html,vue
 数据看板：销售统计、用户画像、收益分析，农户管理一目了然。
 多角色后台：商品审核、用户权限、评价管理，一站式后台管控。
 
+![cc288c3bc74517ba742e2c4cc389425](https://github.com/user-attachments/assets/4ff055f4-f919-411d-8575-807c19fcfc38)
+![91959531f3b6a7e5dd9ec26409f8144](https://github.com/user-attachments/assets/b6305eb3-9c30-4521-bb92-4f8bab46d019)
+![a7651cbe2641760a889aabf4a795803](https://github.com/user-attachments/assets/0c1033ea-cf26-48e4-b053-18f51a15d0a1)
+![8812434cf0db167800e30a46ef032d3](https://github.com/user-attachments/assets/07a7fef6-2d07-4d92-ac91-4d1a4cb9ce10)
 
-![输入图片说明](cc288c3bc74517ba742e2c4cc389425.png)
-![输入图片说明](a7651cbe2641760a889aabf4a795803.png)
-![输入图片说明](91959531f3b6a7e5dd9ec26409f8144.png)
-![输入图片说明](8812434cf0db167800e30a46ef032d3.png)
-![输入图片说明](c4e0407154274046ba43b5c44339458.png)
+![c4e0407154274046ba43b5c44339458](https://github.com/user-attachments/assets/19fe48b8-1dc5-4395-92de-07d3d07b562a)
